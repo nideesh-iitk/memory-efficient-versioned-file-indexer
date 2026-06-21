@@ -1,0 +1,19 @@
+# Build outputs
+analyzer
+*.exe
+*.out
+*.o
+*.obj
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated logs / temporary outputs
+*.log
+tmp/
